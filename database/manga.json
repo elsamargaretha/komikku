@@ -1,14 +1,44 @@
-[
-  {
-    "title": "A Dragonslayer’s Peerless Regression",
-    "category": "manhwa",
-    "file_name": "dragonslayer.cbz",
-    "cover_url": "https://url-gambar-sampulmu.com/img.jpg"
-  },
-  {
-    "title": "One Piece",
-    "category": "manga",
-    "file_name": "onepiece.cbz",
-    "cover_url": "https://url-gambar-sampulmu.com/img2.jpg"
-  }
-]
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragonslayer's Peerless Regression / 용살자의 회귀",
+  "status": "Ongoing",
+  "author": "Do-rak",
+  "artist": "Blue-wood",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah kegagalan umat manusia dalam menumbangkan naga terakhir, sang Dragonslayer terkuat mendapatkan kesempatan kedua. Ia terbangun di masa lalu, kembali ke masa mudanya dengan ingatan dan teknik bertarung yang utuh. Kini, dengan persiapan yang matang dan pengetahuan masa depan, ia bertekad mengumpulkan sekutu terkuat dan melatih dirinya melampaui batas demi mencegah kehancuran dunia untuk kedua kalinya.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Masa Lalu yang Kembali",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Awal dari Latihan Neraka",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/005.jpg"
+      ]
+    }
+  ]
+}
