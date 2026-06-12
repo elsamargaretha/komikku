@@ -1,45 +1,14 @@
-{
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Dragon Slayer's Return, Pembunuh Naga Tanpa Tanding",
-  "status": "Ongoing",
-  "author": "Heo-ru, D-Dart",
-  "artist": "Sake",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Setelah kehilangan segalanya akibat serangan naga, pembunuh naga legendaris kembali ke masa lalu untuk menulis ulang takdirnya. Berbekal pengalaman tempur dan pengetahuan masa depan, ia bertekad untuk menghancurkan para naga sebelum mereka memusnahkan umat manusia.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/dragonslayer-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Kematian dan Permulaan Baru",
-      "cbz_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001.cbz",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kekuatan yang Terbangkitkan",
-      "cbz_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch002.cbz",
-      "pages": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/manga/dragonslayer-regression/ch002/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "A Dragonslayer’s Peerless Regression",
+    "category": "manhwa",
+    "file_name": "dragonslayer.cbz",
+    "cover_url": "https://url-gambar-sampulmu.com/img.jpg"
+  },
+  {
+    "title": "One Piece",
+    "category": "manga",
+    "file_name": "onepiece.cbz",
+    "cover_url": "https://url-gambar-sampulmu.com/img2.jpg"
+  }
+]
